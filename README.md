@@ -115,6 +115,7 @@
 
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=kanhayaKy&show_icons=true&theme=default&count_private=true" alt="kanhayaKy">
-
+<p>
+  <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanhayaKy&show_icons=true&locale=en" alt="kanhayaKy">
 </p>
