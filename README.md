@@ -110,6 +110,8 @@
   </tr>
 </table>
  
+### Stats
+
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=kanhayaKy&show_icons=true&theme=gotham&count_private=true" alt="kanhayaKy">
  </p> 
