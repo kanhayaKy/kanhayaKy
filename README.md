@@ -1,7 +1,8 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kanhayaky&label=Profile%20views&color=0e75b6&style=flat" alt="kanhayaky" /> </p>
+
+### Hi there <img align="" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <h3>A Student , Developer and Learner </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanhayaky&label=Profile%20views&color=0e75b6&style=flat" alt="kanhayaky" /> </p>
 <ul>
   <li>🌱 I’m currently learning <b>React</b> and <b>Django rest framework</b>.</li>
   <li>👯 I’m looking to collaborate on <b>Flutter</b> ,<b>Django</b> and <b>MERN stack</b> projects.</li>
