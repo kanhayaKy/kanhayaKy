@@ -4,7 +4,7 @@
 
 <h3>A Student , Developer and Learner </h3>
 <ul>
-  <li>🌱 I’m currently working on React <b>Kotlin</b>.</li>
+  <li>🌱 I’m currently working on <b>React</b>.</li>
   <li>👯 I’m looking to collaborate on <b>Flutter</b> ,<b>Django</b> and <b>MERN stack</b> projects.</li>
   <li>📫 How to reach me: <a href="https://linkedin.com/in/kanhayaKy"><b>@KanhayaKy</b></a></li>
   <li>
