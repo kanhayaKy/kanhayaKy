@@ -2,7 +2,7 @@
 
 ### Hi there <img align="" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h3>A Student , Developer and Learner </h3>
+
 <ul>
   <li>🌱 I’m currently working on <b>React</b>.</li>
   <li>👯 I’m looking to collaborate on <b>Flutter</b> ,<b>Django</b> and <b>MERN stack</b> projects.</li>
