@@ -1,120 +1,139 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=kanhayaky&label=Profile%20views&color=0e75b6&style=flat" alt="kanhayaky" /> </p>
+<h1 align="center">Hi, I'm Kanhaya Kumar Yadav</h1>
+<h3 align="center">Software Developer</h3>
 
-### Hi there <img align="" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanhayaky&label=Profile%20views&color=0e75b6&style=flat" alt="kanhayaky" /> </p>
 
+<p align="left"> <a href="https://twitter.com/kanhaya_ky" target="blank"><img src="https://img.shields.io/twitter/follow/kanhaya_ky?logo=twitter&style=for-the-badge" alt="kanhaya_ky" /></a> </p>
 
-<ul>
-  <li>🌱 I’m currently working on <b>React</b>.</li>
-  <li>👯 I’m looking to collaborate on <b>Flutter</b> ,<b>Django</b> and <b>MERN stack</b> projects.</li>
-  <li>📫 How to reach me: <a href="https://linkedin.com/in/kanhayaKy"><b>@KanhayaKy</b></a></li>
-  <li>
-    <span>
-      🔗 Find me on
-      <span>&nbsp;</span>
-      <a href="https://www.linkedin.com/in/kanhayaKy/">
-        <img alt="LinkdeIN logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-      </a>
-      <span>&nbsp;</span>
-      <a href="https://leetcode.com/kanhayaKy/">
-        <img alt="leetcode logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-      </a>
-      <span>&nbsp;</span>
-      <a href="https://t.me/kanhayKy">
-        <img alt="telegram logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-      </a>
-      <span>&nbsp;</span>
-      <a href="https://www.instagram.com/k__.__y/">
-        <img alt="instagram logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-      </a>
-    </span>
-  </li>
-</ul>
+- 🌱 I’m currently learning **Golang, Kubernetes**
 
-### Skills
+- 💬 Ask me about **Django, React**
 
+- 📫 Find me on: <span align="left">
+<a href="https://twitter.com/kanhaya_ky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanhaya_ky" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kanhayaky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanhayaky" height="30" width="40" /></a>
+<a href="https://instagram.com/kanhayaky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanhayaky" height="30" width="40" /></a>
+<a href="https://medium.com/@kanhayaky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kanhayaky" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kanhayaky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanhayaky" height="30" width="40" /></a>
+</span>
+
+<br/>
+<h3 align="left">Skills:</h3>
 <table>
+   <tr>
+      <td><h6>Programming Languages</h6></td>
+      <td> 
+         <a href="https://www.python.org" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+         </a>
+         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+         </a>
+         <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+         </a>
+         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+         </a>
+         <a href="https://www.java.com" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+         </a>
+         <a href="https://golang.org" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+         </a>
+         <a href="https://dart.dev" target="_blank" rel="noreferrer">
+         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+         </a>
+      </td>
+   </tr>
   <tr>
-    <td>
-      <h6>Programming Languages</h6>
-      <span>
-        <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-        <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-        <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-          <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/200px-The_C_Programming_Language_logo.svg.png"></code>
-        <code><img height="32" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/131px-Java_programming_language_logo.svg.png"></code>
-        <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-      </span>
-    </td>
-    <td width="306.25px">
-      <h6>Database</h6>
-      <span>
-     <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-        <code><img height="32" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"></code>
-        <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-        <code><img height="32" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
-        <code><img height="16" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/MongoDB-Logo.svg/320px-MongoDB-Logo.svg.png"></code>
-       </span>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      <h6>Frontend Development</h6>
-      <span>
-        <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-        <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-        <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-                <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/200px-React-icon.svg.png"></code \     </span>
-    </td>
-    <td>
-      <h6>Framework</h6>
-      <span>
-        <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-        <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-        <code><img height="36" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" ></code>
-     </span>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <h6>Mobile App Development</h6>
-      <span>
-        <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-      </span>
-    </td>
-    <td>
-      <h6>Devops</h6>
-      <span>
-        <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-        <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-        <code><img height="32" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
-      </span>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      <h6>Backend as a Service(BaaS)</h6>
-      <span>
-        <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-        <code><img height="32" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
-      </span>
-    </td>
-    <td>
-      <h6>Other</h6>
-      <span>
-        <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-        <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-      </span>
-    </td>
-  </tr>
+      <td><h6>Frontend Development</h6></td>
+      <td>
+         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+         </a>
+         <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+         </a>
+         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+         </a>
+         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+         </a>
+         <a href="https://bulma.io/" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/>
+         </a>
+         <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+         </a>
+      </td>
+   </tr>
+   <tr>
+      <td><h6>Backend Developement</h6></td>
+      <td>
+         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+         </a>
+         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+         </a>
+         <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+         </a>
+         <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
+         </a>
+      </td>
+   </tr>
+   <tr>
+      <td><h6>Database</h6></td>
+      <td>
+         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+         </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+         <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
+         <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
+         </a>
+      </td>
+   </tr>
+    <tr>
+      <td><h6>DevOps</h6></td>
+      <td>
+         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
+         </a>
+         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+         </a>
+         <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+         </a>
+         <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+         </a>
+      </td>
+   </tr>
+   <tr>
+      <td><h6>Others</h6></td>
+      <td>
+         <a href="https://postman.com" target="_blank" rel="noreferrer">
+         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+         </a>
+         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+         </a>
+         <a href="https://graphql.org" target="_blank" rel="noreferrer">
+         <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+         </a>
+      </td>
+   </tr>
 </table>
- 
-### Stats
 
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=kanhayaKy&show_icons=true&theme=default&count_private=true" alt="kanhayaKy">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanhayaKy&show_icons=true&locale=en&layout=compact" alt="kanhayaKy">
-</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanhayaky&show_icons=true&locale=en&layout=compact" alt="kanhayaky" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanhayaky&show_icons=true&locale=en" alt="kanhayaky" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanhayaky&" alt="kanhayaky" /></p>
