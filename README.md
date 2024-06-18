@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kanhaya_ky" target="blank"><img src="https://img.shields.io/twitter/follow/kanhaya_ky?logo=twitter&style=for-the-badge" alt="kanhaya_ky" /></a> </p>
 
-- 🌱 I’m currently learning **Rails, Kubernetes**
+- 🌱 I’m currently building edit.magicroll.ai
 
 - 💬 Ask me about **Django, React**
 
