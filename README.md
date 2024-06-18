@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kanhaya_ky" target="blank"><img src="https://img.shields.io/twitter/follow/kanhaya_ky?logo=twitter&style=for-the-badge" alt="kanhaya_ky" /></a> </p>
 
-- 🌱 I’m currently learning **Golang, Kubernetes**
+- 🌱 I’m currently learning **Rails, Kubernetes**
 
 - 💬 Ask me about **Django, React**
 
@@ -129,11 +129,3 @@
       </td>
    </tr>
 </table>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanhayaky&show_icons=true&locale=en&layout=compact" alt="kanhayaky" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanhayaky&show_icons=true&locale=en" alt="kanhayaky" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanhayaky&" alt="kanhayaky" /></p>
