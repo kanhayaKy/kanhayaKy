@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/kanhaya_ky" target="blank"><img src="https://img.shields.io/twitter/follow/kanhaya_ky?logo=twitter&style=for-the-badge" alt="kanhaya_ky" /></a> </p>
 
-- 🌱 Building <a href="https://edit.magicroll.ai" target="blank">magicroll.ai</a>
 
 - 💬 Ask me about **Django, React**
 
